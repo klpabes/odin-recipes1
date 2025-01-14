@@ -1,5 +1,6 @@
 * {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
 }
 
 h1, h2{
@@ -7,4 +8,8 @@ h1, h2{
     font-weight: bold;
     color: white;
     background-color: black;
+
+    padding: 8px 16px;
+    width: 50vw; 
+    margin: 16px auto;
 }
