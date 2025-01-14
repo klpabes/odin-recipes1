@@ -8,8 +8,20 @@ h1, h2{
     font-weight: bold;
     color: white;
     background-color: black;
+}
+div {
+    width: 50vw;
+}
 
-    padding: 8px 16px;
-    width: 50vw; 
+div, img {
     margin: 16px auto;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+p {
+    text-align: center;
 }
